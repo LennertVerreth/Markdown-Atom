@@ -5,7 +5,7 @@
 
 * Free to use
 * No nonsense, 
-* Integrated git/github functionality
+* > Integrated git/github functionality
 
 ### Con's 
 
