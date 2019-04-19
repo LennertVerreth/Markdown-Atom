@@ -1,4 +1,4 @@
-(atom-editor-logo.jpg)
+![wut](logo.jpg)
 # [Atom](https://atom.io/download/deb)
 
 ### Pro's
