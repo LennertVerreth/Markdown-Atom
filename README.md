@@ -1,3 +1,4 @@
+atom-editor-loge.jpg
 # [Atom](https://atom.io/download/deb)
 
 ### Pro's
