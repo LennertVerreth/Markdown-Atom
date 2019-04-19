@@ -1,4 +1,4 @@
-atom-editor-loge.jpg
+(atom-editor-logo.jpg)
 # [Atom](https://atom.io/download/deb)
 
 ### Pro's
@@ -31,6 +31,10 @@ to | html |
 - [x] in
 - [ ] php
 - [x] html
+
+### Random emoji
+
+:neckbeard:
 
 
 
